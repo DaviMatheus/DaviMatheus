@@ -35,7 +35,7 @@
 ### :bell: What I am doing
 
 - :nerd_face::point_up: I’m currently studying Unity, Dart and improving my knowledge in JavaScript
-- :space_invader: As I said, I’m a huge interest in app and game development ([I have this project](https://github.com/fernandes-natanael/O-Jogo), but is only the beginning)
+- :space_invader: As I said, I have a huge interest in app and game development ([I have this project](https://github.com/fernandes-natanael/O-Jogo), but is only the beginning)
 
 
 ## :arrow_down:GitHub stats:
