@@ -39,8 +39,10 @@
 
 
 ## :arrow_down:GitHub stats:
+                                                                                                     
 
 <p align="center">
+  <img height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMatheus&hide=jupyter%20notebook,html&layout=compact&theme=radical" />
   <img src='https://github-readme-stats.vercel.app/api?username=DaviMatheus&show_icons=true&theme=radical '>
 </p>
 
